@@ -12,4 +12,4 @@ $TTL    604800
 @       IN      NS      ns.example.com.
 @       IN      A       172.21.0.2 
 @       IN      AAAA    ::1
-ns      IN      A       172.21.0.2 
+
